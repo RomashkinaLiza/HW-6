@@ -1,5 +1,7 @@
 # HW-6
 
+Если будет удобно, то существует файл в Google.docs по ссылке: https://docs.google.com/document/d/1zPxpqOmwbVK2LRNVop4Lu2KIc9BtIPFprEHOs2L3avM/edit
+
 https://github.com/RomashkinaLiza/HW-6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(2).png
 
 Итак, на основе первого графика мы можем сделать вывод о том, что за выражением “due to” чаще всего следует “the fact”, который достигает вершины в 1920-х годах, а затем медленно уменьшается, на втором и третьем месте - “the presence” и “the lack”. На самом последнем, десятом месте по частоте употребления находится “the formation”.
